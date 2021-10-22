@@ -5,9 +5,6 @@
 <a href="https://www.instagram.com/furkan_yldz.07" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/FurkanYldz0722" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
-## Spotify Dinlenen Şarkı 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">İlgi Alanlarım</summary>
