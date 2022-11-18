@@ -4,7 +4,7 @@
    <a href="https://discord.com/users/318998310989987840" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.instagram.com/furkan_yldz.07" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/FurkanYldz0722" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-[![Discord Presence](https://lanyard.cnrad.dev/api/318998310989987840)](https://discord.com/users/318998310989987840)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/318998310989987840?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/318998310989987840)
 [![Github Status](https://github-readme-stats.vercel.app/api?username=furkanyldz007&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <details align="center">
